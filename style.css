@@ -1,5 +1,7 @@
 header img {
     filter: brightness(50%);
+    height: 700px;
+    width: 1320px;
 }
 
 .first-heading {
