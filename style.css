@@ -1,3 +1,22 @@
 header img {
     filter: brightness(50%);
 }
+
+.bg-custom-color {
+    background-color: #D61C4E;
+    color: white;
+}
+
+.bg-custom {
+    background-color: #D61C4E;
+}
+
+.custom-color {
+    color: #D61C4E;
+}
+
+.bg-custom-color:hover {
+    background-color: none;
+    color: black;
+    border: 3px solid #D61C4E;
+}
